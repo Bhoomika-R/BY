@@ -22,7 +22,7 @@
       <th>Facilities required </th> 
      </tr> 
      <tr> 
-      <td><input type="radio" name="course" value="pcmc"> PCMC <br> <input type="radio" name="course" value="ceba"> CEBA <br> <input type="radio" name="course" value="pcmb"> PCMB </td> 
+      <td><input type="radio" name="course" value="pcmc"> PCMC <br> <input type="radio" name="course" value="pcme"> PCME<br> <input type="radio" name="course" value="pcmb"> PCMB </td> 
       <td> <input type="checkbox" name="hstl" value="yes"> Hostel <br> <input type="checkbox" name="tr" value="yes"> Transportation <br> <input type="checkbox" name="coaching" valut="yes"> Extra coaching <br> </td> 
      </tr> 
     </tbody> 
