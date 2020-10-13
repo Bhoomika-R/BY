@@ -29,7 +29,8 @@
      </tr> 
     </tbody> 
    </table> 
-   <p> Remarks/Comments if any: <br> <textarea name="comment" rows="2" cols="50">
+   <p> Remarks/Comments if any: <br> 
+      <textarea name="comment" rows="2" cols="50">
      </textarea> </p> 
    <input type="submit" value="Submit the form"> 
    <input type="Reset"> 
